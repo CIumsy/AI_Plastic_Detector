@@ -1,4 +1,8 @@
-streamlit
-opencv-python
-numpy
-ultralytics
+streamlit==1.39.0
+opencv-python-headless==4.10.0.84
+numpy==2.1.2
+pandas==2.2.3
+torch==2.4.1
+torchvision==0.19.1
+ultralytics==8.3.11
+zipfile36
