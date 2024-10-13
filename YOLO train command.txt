@@ -1,0 +1,1 @@
+yolo train data=config.yaml model=yolov8n.pt epochs=50 batch=16
