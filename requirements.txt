@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 streamlit==1.12.0
 opencv-python==4.6.0.66
 numpy==1.21.0
 ultralytics==8.0.8
+=======
+streamlit
+opencv-python
+opencv-python-headless
+numpy
+pandas
+torch
+torchvision
+ultralytics
+zipfile36
+>>>>>>> 8a6dfc1ce50bb6f9388fd1cdf6c62cae51d7cf8b
