@@ -22,6 +22,10 @@ Plastic waste is a major environmental issue that affects ecosystems worldwide. 
 - **Machine Learning**: Trained on a diverse dataset of plastic waste images to improve detection accuracy.
 - **Scalability**: Can be deployed in various environments, from urban areas to remote locations.
 
+### To use the AI Plastic Detector, navigate to the link: https://aiplasticdetector.streamlit.app/
+
+### Alternatively, to run the application locally, follow the [Installation](#installation) and [Usage](#usage) steps:
+
 ## Installation
 
 To install and set up the AI Plastic Detector, follow these steps:
@@ -45,9 +49,7 @@ To install and set up the AI Plastic Detector, follow these steps:
 
 ## Usage
 
-To use the AI Plastic Detector, navigate to the link: https://aiplasticdetector.streamlit.app/
-
-Alternatively, to run the application locally, follow these steps:
+To use the AI Plastic Detector, follow these steps:
 
 1. **Run the detection script**:
     ```bash
@@ -80,7 +82,3 @@ We welcome contributions to the AI Plastic Detector project. If you have any ide
     ```
 
 5. **Open a pull request**.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
